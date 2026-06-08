@@ -89,7 +89,7 @@ def main():
     time.sleep(1)
 
     # Executa o monitoramento em loop (simulando tempo real)
-    ciclos = 5  # Quantidade de vezes que vai rodar. Mude para True para loop infinito.
+    ciclos = 5
     contador = 0
 
     try:
